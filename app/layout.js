@@ -1,6 +1,8 @@
+import './globals.css'
+
 export const metadata = {
   title: 'My Website',
-  description: 'My awesome website with contact form and payment',
+  description: 'My website with contact form and payment',
 }
 
 export default function RootLayout({ children }) {
